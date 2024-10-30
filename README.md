@@ -14,7 +14,7 @@
 - Dan: [looks for 2 sec] Hey! This hidden page. Why do you keep a page number for a hidden...  
 - [Scene ends]
 
-### 枹树 [用日文！ todo: 谁来翻译]
+### 木を抱く [用日文！ todo: 谁来翻译]
 - JJY: Hi, Will! How's your diffusion model going?
 - Wenye: Will! It's doing pretty well. And yours?
 - JJY: It's doing alright.
