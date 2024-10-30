@@ -24,10 +24,18 @@
 - Wenye: Ooo. Better not hug any of them!
 
 ### DnD 手势
-- Liwei: H.M.M.
+- JJY: ...And I will shoot the goblin with my fireball. 
+- Liwei: H.M.M., let's do a 觉知力 check on that one.
+- JJY: [rolls dice] 17.
+- Liwei: [checks numbers...] [raises head to look at JJY] [DnD 手势] {camera view should emphasize the 手势} You conjure up a fireball and successfully hit the A100 GPU standing beside the goblin. 
 
 ### 兔子伯爵
-- 众人：对 Will 说话。  
-- 镜头旋转  
-- 兔子伯爵
-- Tensorboard
+- Dan: Will. Happy Halloween.
+- Liwei: Trick or treat! 现在你欠我一颗糖，最好下次见面记得。
+- JJY: _____
+- Wenye: _____
+- Xuanjie: _____
+- [镜头旋转，看见兔子伯爵，放大]
+- 兔子伯爵: 你们知道吗，这年头兔子都比我会用 Tensorboard. 嗯！？我就是兔子！
+
+注：(需要摄影师换人才能5人都说话)
