@@ -30,11 +30,11 @@
 - Liwei: [checks numbers...] [raises head to look at JJY] [DnD 手势] {camera view should emphasize the 手势} You conjure up a fireball and successfully hit the A100 GPU standing beside the goblin. 
 
 ### The Room
-- Will: Thank you
-- Liwei: Wait, Will 你太快了
-- Will: Oh sry. Do you want to try it again
-- Liwei: 不客气
-- Will: Thank you
+- Xuanjie: Thanks, Will.
+- Liwei: Wait, Will 你太快了.
+- Xuanjie: Oh sry. Do you want to try it again?
+- Liwei: 不客气. 
+- Xuanjie: Thank you
 
 ### 兔子伯爵
 - Dan: Will. Happy Halloween.
