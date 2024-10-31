@@ -14,7 +14,7 @@
 - Dan: [looks for 2 sec] Hey! This hidden page. Why do you keep a page number for a hidden...  
 - [Scene ends]
 
-### 木を抱く [用日文！ todo: 谁来翻译]
+### 木を抱く 
 - JJY: やあ、ウィル！拡散（かくさん）モデルの調子はどう？
 - Wenye: ウィル！結構うまくいってるよ。君のは？
 - JJY: まあまあだね。
