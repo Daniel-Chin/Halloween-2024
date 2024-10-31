@@ -29,10 +29,17 @@
 - JJY: [rolls dice] 17.
 - Liwei: [checks numbers...] [raises head to look at JJY] [DnD 手势] {camera view should emphasize the 手势} You conjure up a fireball and successfully hit the A100 GPU standing beside the goblin. 
 
+### The Room
+- Will: Thank you
+- Liwei: Wait, Will 你太快了
+- Will: Oh sry. Do you want to try it again
+- Liwei: 不客气
+- Will: Thank you
+
 ### 兔子伯爵
 - Dan: Will. Happy Halloween.
 - Liwei: Trick or treat! 现在你欠我一颗糖，最好下次见面记得。
-- JJY: _____
+- JJY: Merry Xmas, Will!
 - Wenye: _____
 - Xuanjie: _____
 - [镜头旋转，看见兔子伯爵，放大]
