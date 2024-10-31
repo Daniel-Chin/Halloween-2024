@@ -15,13 +15,13 @@
 - [Scene ends]
 
 ### 木を抱く [用日文！ todo: 谁来翻译]
-- JJY: Hi, Will! How's your diffusion model going?
-- Wenye: Will! It's doing pretty well. And yours?
-- JJY: It's doing alright.
+- JJY: やあ、ウィル！拡散（かくさん）モデルの調子はどう？
+- Wenye: ウィル！結構うまくいってるよ。君のは？
+- JJY: まあまあだね。
 - Liwei: [Moves into scene, standing upright]
-- Wenye: What's that?
-- JJY: That's a tree.
-- Wenye: Ooo. Better not hug any of them!
+- Wenye: それは何？
+- JJY: 木だよ。
+- Wenye: おぉ〜。抱（だ）かない方がいいかもね！
 
 ### DnD 手势
 - JJY: ...And I will shoot the goblin with my fireball. 
